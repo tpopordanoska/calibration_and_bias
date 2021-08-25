@@ -1,7 +1,7 @@
 # Calibration and Bias
 
 
-This is the code that accompanies the paper "On the relationship between calibrated predictors and unbiased volume estimation" (accepted as a conference paper at MICCAI 2021).
+This is the code that accompanies the paper "On the relationship between calibrated predictors and unbiased volume estimation" (accepted as a conference paper at MICCAI 2021). The full text of the paper can be found here: https://lirias.kuleuven.be/handle/123456789/677210
 
 
 ## Dependencies
